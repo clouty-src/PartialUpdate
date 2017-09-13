@@ -1,5 +1,5 @@
 # PartialUpdate
-PartialUpdate is a library for ASP.Net Web API which helps you to implement partial resource update using http request with json body, that contains those fields that need to be updated
+PartialUpdate is a library for ASP.Net Web API which helps you to implement partial resource update using http request with json body, that contains those fields that need to be updated.
 
 ## Usage
 
@@ -30,3 +30,7 @@ public IHttpActionResult UpdateUser(
     return Ok();
 }
 ```
+
+## Nuget
+
+[Partial Update Package](https://www.nuget.org/packages/Clouty.PartialUpdate)
