@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Clouty.PartialUpdate</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Clouty Team</authors>
+    <owners>Clouty Team</owners>
+<!--     <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>-->
+<iconUrl>http://clouty.tech/images/clouty.png</iconUrl>
+<requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows you to implement partial resource update in your web api app</description>
+    <!-- <releaseNotes>Summary of changes made in this release of the package.</releaseNotes> -->
+    <copyright>Copyright 2017</copyright>
+    <tags>partial update json webapi patch</tags>
+  </metadata>
+</package>
