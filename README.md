@@ -37,4 +37,4 @@ public IHttpActionResult UpdateUser(
 
 ## Collaboration
 
-If you use this library and know how to make it better - create [Issue](https://github.com/clouty-src/PartialUpdate/issues/new) or fork, improve and make pull request!
+If you use this library and know how to make it better - create [issue](https://github.com/clouty-src/PartialUpdate/issues/new) or fork, improve and make pull request!
