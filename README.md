@@ -34,3 +34,7 @@ public IHttpActionResult UpdateUser(
 ## Nuget
 
 [Partial Update Package](https://www.nuget.org/packages/Clouty.PartialUpdate)
+
+## Collaboration
+
+If you use this library and know how to make it better - create [Issue](https://github.com/clouty-src/PartialUpdate/issues/new) or fork, improve and make pull request!
